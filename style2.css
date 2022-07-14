@@ -1,0 +1,112 @@
+body{
+    background-color: #F5F5F5;
+}
+.col-8{
+    border: 3px;
+  
+    height: 600px;
+    margin-left: 16%;
+    margin-top: 3.5%;
+
+    background: #edebeb;
+box-shadow: -13px 13px 26px rgba(154, 154, 154, 0.2), 13px -13px 26px rgba(154, 154, 154, 0.2), -13px -13px 26px rgba(255, 255, 255, 0.9), 13px 13px 33px rgba(154, 154, 154, 0.9), inset 1px 1px 2px rgba(255, 255, 255, 0.3), inset -1px -1px 2px rgba(154, 154, 154, 0.5);
+border-radius: 70px;
+}
+
+.title{
+    font-family: 'Arima Madurai';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+margin-left: 15%;
+
+
+color: #000000;
+
+}
+
+#image1{
+    width: 600px;
+    height: 600px;
+    margin-left: -45%;
+}
+
+#image2{
+    width: 500px;
+    height: 650px;
+    margin-top: -610px;
+}
+
+.form-field input {
+    width: 100%;
+    display: block;
+    border: none;
+    outline: none;
+    font-size: 1.2rem;
+    color: #666;
+    padding: 10px 15px 10px 10px;
+
+    background: none;
+box-shadow: inset -20px -10px 20px rgba(0, 0, 0, 0.37), inset 10px 10px 30px #FFFFFF;
+border-radius: 11px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+color: #000000;
+
+    
+}
+
+.wrapper .form-field {
+    padding-left: 10px;
+    margin-bottom: 50px;
+    
+    background: none;
+box-shadow: inset -20px -10px 20px rgba(0, 0, 0, 0.37), inset 10px 10px 30px #FFFFFF;
+border-radius: 11px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+color: #000000;
+
+}
+
+.wrapper .form-field .fas {
+    color: #555;
+}
+
+.wrapper .btn {
+ 
+    width: 200px;
+    height: 40px;
+    font-family: 'Habibi';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+    
+    color: #fff;
+   
+   
+    margin-left: 40%;
+
+    background: #2F4858;
+box-shadow: 5px 5px 1px rgba(68, 131, 144, 0.9);
+border-radius: 90px;
+}
+
+.circle2{
+    
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 10%;
+    top: 70%;
+    background:#F3F0BB;
+    z-index: -1;
+    border-radius: 50%;
+
+}
